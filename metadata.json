@@ -1,0 +1,5 @@
+{
+  "name": "Sindh PathFinder: Dijkstra Explorer",
+  "description": "A Data Structures and Algorithms project visualizing Dijkstra's shortest path algorithm on a custom map of Sindh, Pakistan. Features interactive graph visualization and Gemini-powered travel insights.",
+  "requestFramePermissions": []
+}
